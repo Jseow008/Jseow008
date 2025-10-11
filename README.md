@@ -6,14 +6,9 @@
 
 ---
 
-### 🧠 About Me
-I’m a software engineer specializing in **database systems**, **backend development**, and **data-driven applications**.  
-I focus on building scalable, efficient systems that bridge data architecture and software engineering.
-
 **Key interests:**
 - Database design, optimization, and performance tuning  
-- API development and backend systems (FastAPI, Flask, .NET)  
-- Data analytics, machine learning, and automation  
+- Data analytics, machine learning, and automation
 
 ---
 
