@@ -1,9 +1,8 @@
 ## Hi, I'm J 👋 
  
-🤔 NTU Computer Engineer Graduate 2024 <br />
-🌱 On the job learning through creating projects pertaining to AI and Finanace (New Active Github Account) <br />
-📫 Email me at jseow008@e.ntu.edu.sg <br />
-⚡ Fun fact: What i lack in skills, i compensate with effort <br />
+🤔 NTU Fresh Graduate 2024 <br />
+🌱 Software Engineer Database at DXC Technology <br />
+📫 Email me at jseow008@e.ntu.edu.sg <br 
 
 
 # 💻 Tech Stack:
