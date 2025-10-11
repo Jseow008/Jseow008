@@ -1,7 +1,7 @@
 ## 👋 Hi, I'm J
 
 🎓 **NTU Computer Science Graduate (Class of 2024)**  
-💼 **Software Engineer (Database)** at [DXC Technology](https://dxc.com) 
+💼 **Software Engineer (Database)** at [DXC Technology](https://dxc.com)  
 📫 **Contact:** [jseow008@e.ntu.edu.sg](mailto:jseow008@e.ntu.edu.sg)
 
 ---
