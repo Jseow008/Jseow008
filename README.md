@@ -1,15 +1,3 @@
-## 👋 Hi, I'm J
-
-🎓 **NTU Computer Engineering Graduate (Class of 2024)**  
-💼 **Software Engineer (Database)** at [DXC Technology](https://www.linkedin.com/company/dxctechnology/posts/?feedView=all)  
-📫 **Contact:** [jseow008@e.ntu.edu.sg](mailto:jseow008@e.ntu.edu.sg)
-
----
-
-**Key interests:**
-- Database design, optimization, and performance tuning  
-- Data analytics, machine learning, and automation
-
 ---
 
 ### 💻 Tech Stack
